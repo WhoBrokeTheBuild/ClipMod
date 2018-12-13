@@ -2,5 +2,7 @@ github.com/atotto/clipboard v0.1.1 h1:WSoEbAS70E5gw8FbiqFlp69MGsB6dUb4l+0AGGLiVG
 github.com/atotto/clipboard v0.1.1/go.mod h1:ZY9tmq7sm5xIbd9bOK4onWV4S6X0u6GY7Vn0Yu86PYI=
 github.com/kortschak/zalgo v0.0.0-20141105224154-8c91a4a457cf h1:vB9NvSCECi1eEAtAOS0Z6E5JhRalMG9HhhPhlQDqBDw=
 github.com/kortschak/zalgo v0.0.0-20141105224154-8c91a4a457cf/go.mod h1:EG+ODQ0g9W43AzhWDDmbiFnnS0sXPAeUE1Vyqu4vzaQ=
+github.com/lithammer/dedent v1.0.0 h1:rLF1uRgU2783qnoHLRBymNcPIj/3LMr+9eZNaNI6law=
+github.com/lithammer/dedent v1.0.0/go.mod h1:jrXYCQtgg0nJiN+StA2KgR7w6CiQNv9Fd/Z9BP0jIOc=
 golang.org/x/net v0.0.0-20181207154023-610586996380 h1:zPQexyRtNYBc7bcHmehl1dH6TB3qn8zytv8cBGLDNY0=
 golang.org/x/net v0.0.0-20181207154023-610586996380/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=

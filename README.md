@@ -25,3 +25,8 @@ Example Text => E x a m p l e   T e x t
 
 `ClipMod zalgo`
 Example Text => E͕̥̼̭ͯ̾x̫̼͈̳͎̍a͕͈̤͛͞͡ṁ̖̫̿̚ͅp̦͙̣̘̯̊ͯ͝l͂҉̼̪̣͙ė̺̺͕͉̓͟͠ ̻͖͖̫̟̈T͎̬̤͇̋e͈̮ͪ̀͢x̮̯̰̥t͕̱̘̃͆
+
+`ClipMod code`
+Example Text => ```
+Example Text
+```

@@ -9,6 +9,7 @@ import (
 
 	"github.com/atotto/clipboard"
 	"github.com/kortschak/zalgo"
+	"github.com/lithammer/dedent"
 )
 
 func main() {
@@ -53,6 +54,8 @@ func main() {
 
 		z.Write([]byte(buf))
 		buf = string(b.Bytes())
+	} else if mode == "code" {
+		buf = "```\n" + dedent.Dedent(buf) + "\n```"
 	}
 
 	err = clipboard.WriteAll(buf)
